@@ -1,0 +1,13 @@
+{
+  "name": "منهجي",
+  "short_name": "منهجي",
+  "description": "منصة لتنظيم المناهج والكتب والأسئلة والامتحانات",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffdf5",
+  "theme_color": "#557a58",
+  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
